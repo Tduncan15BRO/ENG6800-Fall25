@@ -8,3 +8,5 @@ This is my Intro to T&T repository using GitHub Desktop and Visual Studio Code.
 - Feature 1
 - Feature 2
 - Feature 3 
+
+[Here is a link to page 2](page2.md)
